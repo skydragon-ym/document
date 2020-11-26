@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T02:53:38.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="13.10.2" etag="da9Akr2gnShZ2AITTF2z" type="github"><diagram id="1UaYrzGQjnDg9RheGn57">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-26T05:59:44.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="VZ7l5sYWl_8pndvgmu-A" version="13.10.2" type="github">
+  <diagram id="1UaYrzGQjnDg9RheGn57" name="Page-1">
+    <mxGraphModel dx="1324" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="80" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-17" value="" style="group" vertex="1" connectable="0" parent="x0t2-J9m_5ZGAjimrisK-30">
+          <mxGeometry y="10" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-10" value="" style="line;strokeWidth=2;html=1;fontFamily=Helvetica;" vertex="1" parent="x0t2-J9m_5ZGAjimrisK-17">
+          <mxGeometry y="50" width="230" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-11" value="+" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="x0t2-J9m_5ZGAjimrisK-17">
+          <mxGeometry y="30" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-12" value="0 0 0 0 0 0 0 1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="x0t2-J9m_5ZGAjimrisK-17">
+          <mxGeometry x="40" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-14" value="1 1 1 1 1 1 1 1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="x0t2-J9m_5ZGAjimrisK-17">
+          <mxGeometry x="40" y="30" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-15" value="0 0 0 0 0 0 0 0" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="x0t2-J9m_5ZGAjimrisK-17">
+          <mxGeometry x="40" y="60" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-16" value="1" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="x0t2-J9m_5ZGAjimrisK-17">
+          <mxGeometry x="25" y="60" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-27" value="&lt;font color=&quot;#66b2ff&quot; style=&quot;font-size: 17px&quot;&gt;1的原码表示&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="x0t2-J9m_5ZGAjimrisK-30">
+          <mxGeometry x="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-28" value="&lt;font color=&quot;#66b2ff&quot; style=&quot;font-size: 17px&quot;&gt;-1的补码表示&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="x0t2-J9m_5ZGAjimrisK-30">
+          <mxGeometry x="240" y="30" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-29" value="&lt;font color=&quot;#66b2ff&quot; style=&quot;font-size: 17px&quot;&gt;结果为0&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="x0t2-J9m_5ZGAjimrisK-30">
+          <mxGeometry x="260" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-31" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="440" y="80" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-32" value="" style="group" vertex="1" connectable="0" parent="x0t2-J9m_5ZGAjimrisK-31">
+          <mxGeometry y="10" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-33" value="" style="line;strokeWidth=2;html=1;fontFamily=Helvetica;" vertex="1" parent="x0t2-J9m_5ZGAjimrisK-32">
+          <mxGeometry y="50" width="230" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-34" value="+" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="x0t2-J9m_5ZGAjimrisK-32">
+          <mxGeometry y="30" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-35" value="0 1 1 1 1 1 0 0" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="x0t2-J9m_5ZGAjimrisK-32">
+          <mxGeometry x="40" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-36" value="1 0 0 0 0 1 0 0" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="x0t2-J9m_5ZGAjimrisK-32">
+          <mxGeometry x="40" y="30" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-37" value="0 0 0 0 0 0 0 0" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="x0t2-J9m_5ZGAjimrisK-32">
+          <mxGeometry x="40" y="60" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-38" value="1" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="x0t2-J9m_5ZGAjimrisK-32">
+          <mxGeometry x="25" y="60" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-39" value="&lt;font color=&quot;#66b2ff&quot; style=&quot;font-size: 17px&quot;&gt;124的原码表示&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="x0t2-J9m_5ZGAjimrisK-31">
+          <mxGeometry x="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-40" value="&lt;font color=&quot;#66b2ff&quot; style=&quot;font-size: 17px&quot;&gt;-124的补码表示&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="x0t2-J9m_5ZGAjimrisK-31">
+          <mxGeometry x="240" y="30" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x0t2-J9m_5ZGAjimrisK-41" value="&lt;font color=&quot;#66b2ff&quot; style=&quot;font-size: 17px&quot;&gt;结果为0&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="x0t2-J9m_5ZGAjimrisK-31">
+          <mxGeometry x="260" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
